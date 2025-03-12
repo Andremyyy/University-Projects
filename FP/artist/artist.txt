@@ -1,0 +1,9 @@
+1,Marius Stefan,Trap,300.0
+2,Mihaela Moager,Rap,256.0
+3,Oscar,Trap,547
+5,Ian,Rap,255.8
+6,Mozart,Simfonica,789
+7,Deliric,Trap,231
+8,Andra,Populara,123
+9,Smiley,Rap, 25810,Stefan Banica,Vechi,294.0
+10,Stfean Banica,DUbios,123.0
