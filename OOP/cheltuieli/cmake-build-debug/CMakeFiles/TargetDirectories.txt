@@ -1,0 +1,3 @@
+D:/OOP/cheltuieli/cmake-build-debug/CMakeFiles/gestiune_apartamente.dir
+D:/OOP/cheltuieli/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OOP/cheltuieli/cmake-build-debug/CMakeFiles/rebuild_cache.dir
