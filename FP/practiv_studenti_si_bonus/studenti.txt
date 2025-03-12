@@ -1,0 +1,7 @@
+1,Popescu Ion,15,9
+2,Iliescu Stefan,2,10
+3,CRISTESCU MARIANA,10,4
+4,Ionescu Marian,13,10
+5,Pop Iulia,11,8
+6,Vaida Marcus,56,5
+9,Radu Mircea,2,8
