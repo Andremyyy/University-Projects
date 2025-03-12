@@ -1,0 +1,3 @@
+C:/Users/ema_a/Desktop/OOP/Tonomat_de_dulciuri/cmake-build-debug/CMakeFiles/Tonomat_de_dulciuri.dir
+C:/Users/ema_a/Desktop/OOP/Tonomat_de_dulciuri/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ema_a/Desktop/OOP/Tonomat_de_dulciuri/cmake-build-debug/CMakeFiles/rebuild_cache.dir
