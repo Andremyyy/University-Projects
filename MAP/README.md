@@ -1,1 +1,1 @@
-a
+These are some of the projects I worked on while attending the 'Advanced Programming Methods' course. The most complex and important project here is 'a4-javaFX,' which includes the implementation of a mini-application for managing a pastry shop. It features various types of repositories (text files, binary files, databases, etc.) and a graphical interface built with JavaFX.
