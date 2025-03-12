@@ -1,0 +1,6 @@
+3, Action, Someone special, 1957,Action Drama, 7.5
+2, Action2, Someone special, 1982, Action Thriller, 9.8
+5,Ceva,Cineva,1987,Action Thriller,9.7 
+6,Ceva,Cineva,1987,Action,9.7 
+9,Ceva,Cineva,1987,Drama Action,9.7 
+10,Ceva,Cineva,1987,Drama Action,9.7 
