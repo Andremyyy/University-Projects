@@ -1,0 +1,8 @@
+1,Capucinno,Uruguay,14
+2,Espessso Lung,Franta,5
+7,Latte,Franta,12
+6,Frappe,Franta,24
+3,Escpesso Scurt,Anglia,3
+4,Flat White,America,20
+5,Americano,Franta,10
+2,CARAMEL MACHIATTO,Italia,25.0
